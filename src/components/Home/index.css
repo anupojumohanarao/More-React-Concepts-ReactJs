@@ -1,0 +1,18 @@
+.home-container {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: large;
+  height: 100vh;
+  background-color: yellowgreen;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  list-style-type: none;
+}
+
+.list-item {
+  margin-top: 12px;
+}
